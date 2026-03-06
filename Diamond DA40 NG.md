@@ -537,335 +537,309 @@ A landing on grass is recommended to reduce landing run due to greater rolling r
   
 ## CHAPTER 4A — NORMAL OPERATING PROCEDURES  
   
-## 4A.5.1 Pre-Flight Inspection  
+### 4A.5.1 Pre-Flight Inspection  
   
 ### I. Cabin Check  
-  
-- [ ] **a)** MET, NAV, Mass & CG — flight planning completed  
-- [ ] **b)** Airplane documents — complete and up-to-date  
-- [ ] **c)** ELECTRIC MASTER — OFF, pull out key  
-- [ ] **d)** ENGINE MASTER — check OFF  
-- [ ] **e)** VOTER switch — check AUTO  
-- [ ] **f)** Fuel valve — locked, in NORMAL position  
-- [ ] **g)** Front canopy & rear door — clean, undamaged; check locking mechanism function  
-- [ ] **h)** All electrical equipment — OFF  
-- [ ] **i)** Circuit breakers — check all IN (if one has popped: investigate)  
-- [ ] **j)** POWER lever — check condition, freedom of movement, full travel and friction adjustment  
-- [ ] **k)** POWER lever — IDLE  
-- [ ] **l)** ELECTRIC MASTER — ON  
-- [ ] **m)** Fuel quantity — check, use alternate means  
-- [ ] **n)** Position lights, strobe lights (ACL) — check OFF  
-- [ ] **o)** Taxi lights, landing lights — check OFF  
-- [ ] **p)** ELECTRIC MASTER — OFF  
-- [ ] **q)** Foreign objects — check  
-- [ ] **r)** Controls and trim — free and correct  
-- [ ] **s)** Emergency axe (if installed) — stowed and secured  
-- [ ] **t)** Baggage — stowed and secured  
+- [ ] a) MET, NAV, Mass & CG — flight planning completed  
+- [ ] b) Airplane documents — complete and up-to-date  
+- [ ] c) ELECTRIC MASTER — OFF, pull out key  
+- [ ] d) ENGINE MASTER — check OFF  
+- [ ] e) VOTER switch — check AUTO  
+- [ ] f) Fuel valve — locked, in NORMAL position  
+- [ ] g) Front canopy & rear door — clean, undamaged; check locking mechanism function  
+- [ ] h) All electrical equipment — OFF  
+- [ ] i) Circuit breakers — check all IN (if one has popped: investigate)  
+- [ ] j) POWER lever — check condition, freedom of movement, full travel and friction adjustment  
+- [ ] k) POWER lever — IDLE  
+- [ ] l) ELECTRIC MASTER — ON  
+- [ ] m) Fuel quantity — check, use alternate means  
+- [ ] n) Position lights, strobe lights (ACL) — check OFF  
+- [ ] o) Taxi lights, landing lights — check OFF  
+- [ ] p) ELECTRIC MASTER — OFF  
+- [ ] q) Foreign objects — check  
+- [ ] r) Controls and trim — free and correct  
+- [ ] s) Emergency axe (if installed) — stowed and secured  
+- [ ] t) Baggage — stowed and secured  
   
 ### II. Walk-Around Check, Visual Inspection  
   
-**1. Left Main Landing Gear:**  
-- [ ] **a)** Landing gear strut or fairing (if installed) — visual inspection  
-- [ ] **b)** Wear, tread depth of tire — check  
-- [ ] **c)** Tire, wheel, brake — visual inspection  
-- [ ] **d)** Brakes — check for leaks  
-- [ ] **e)** Slip marks — visual inspection  
-- [ ] **f)** Chocks — remove  
+1. Left Main Landing Gear:  
+- [ ] a) Landing gear strut or fairing (if installed) — visual inspection  
+- [ ] b) Wear, tread depth of tire — check  
+- [ ] c) Tire, wheel, brake — visual inspection  
+- [ ] d) Brakes — check for leaks  
+- [ ] e) Slip marks — visual inspection  
+- [ ] f) Chocks — remove  
   
-**2. Left Wing:**  
-- [ ] **a)** Entire wing surface — visual inspection  
-- [ ] **b)** Step — visual inspection  
-- [ ] **c)** Air intake on lower wing surface — visual inspection  
-- [ ] **d)** Winter baffle of air intake on lower wing surface (if installed) — consider removal depending on OAT; verify proper mounting  
-- [ ] **e)** Openings on lower surface — check for foreign objects and for traces of fuel  
-- [ ] **f)** Tank drain — drain to check for water and sediment (drain until free of contamination)  
-- [ ] **g)** Stall warning — check function (suction)  
-- [ ] **h)** Tank filler — check closed (for fuel qty. check use alternate means)  
-- [ ] **i)** Tank air outlet in lower surface — visual inspection  
-- [ ] **j)** Pitot probe — clean, orifices clear, attachment secure (no loose or missing screws)  
-- [ ] **k)** Landing/taxi light — visual inspection  
-- [ ] **l)** Winglet — visual inspection  
-- [ ] **m)** Position light, strobe light (ACL) — visual inspection  
-- [ ] **n)** Tie-down — check, clear  
-- [ ] **o)** 2 stall strips on wing — visual inspection  
-- [ ] **p)** Aileron and linkage — visual inspection  
-- [ ] **q)** Aileron hinges and safety pin — visual inspection  
-- [ ] **r)** Foreign objects in aileron paddle — visual inspection  
-- [ ] **s)** Trim tab — visual inspection  
-- [ ] **t)** Flap and linkage — visual inspection  
-- [ ] **u)** Flap hinges and safety pin — visual inspection  
-- [ ] **v)** Static discharger — visual inspection  
-- [ ] **w)** Fuel cooler inlet baffle (if installed) — verify OAT permits use; check for improper mounting or obvious damage  
+2. Left Wing:  
+- [ ] a) Entire wing surface — visual inspection  
+- [ ] b) Step — visual inspection  
+- [ ] c) Air intake on lower wing surface — visual inspection  
+- [ ] d) Winter baffle of air intake on lower wing surface (if installed) — consider removal depending on OAT; verify proper mounting  
+- [ ] e) Openings on lower surface — check for foreign objects and for traces of fuel  
+- [ ] f) Tank drain — drain to check for water and sediment (drain until free of contamination)  
+- [ ] g) Stall warning — check function (suction)  
+- [ ] h) Tank filler — check closed (for fuel qty. check use alternate means)  
+- [ ] i) Tank air outlet in lower surface — visual inspection  
+- [ ] j) Pitot probe — clean, orifices clear, attachment secure (no loose or missing screws)  
+- [ ] k) Landing/taxi light — visual inspection  
+- [ ] l) Winglet — visual inspection  
+- [ ] m) Position light, strobe light (ACL) — visual inspection  
+- [ ] n) Tie-down — check, clear  
+- [ ] o) 2 stall strips on wing — visual inspection  
+- [ ] p) Aileron and linkage — visual inspection  
+- [ ] q) Aileron hinges and safety pin — visual inspection  
+- [ ] r) Foreign objects in aileron paddle — visual inspection  
+- [ ] s) Trim tab — visual inspection  
+- [ ] t) Flap and linkage — visual inspection  
+- [ ] u) Flap hinges and safety pin — visual inspection  
+- [ ] v) Static discharger — visual inspection  
+- [ ] w) Fuel cooler inlet baffle (if installed) — verify OAT permits use; check for improper mounting or obvious damage  
   
-**3. Fuselage, Left Side:**  
-- [ ] **a)** Canopy, left side — visual inspection  
-- [ ] **b)** Door lock (if installed) — unlocked, key removed  
-- [ ] **c)** Rear cabin door & window — visual inspection  
-- [ ] **d)** Fuselage skin — visual inspection  
-- [ ] **e)** Antennas — visual inspection  
-- [ ] **f)** Static source — check for blockage  
+3. Fuselage, Left Side:  
+- [ ] a) Canopy, left side — visual inspection  
+- [ ] b) Door lock (if installed) — unlocked, key removed  
+- [ ] c) Rear cabin door & window — visual inspection  
+- [ ] d) Fuselage skin — visual inspection  
+- [ ] e) Antennas — visual inspection  
+- [ ] f) Static source — check for blockage  
   
-**4. Empennage:**  
-- [ ] **a)** Stabilizers and control surfaces — visual inspection  
-- [ ] **b)** Hinges — visual inspection  
-- [ ] **c)** Elevator trim tab — visual inspection; check for movement and safety wire  
-- [ ] **d)** Rudder tab — visual inspection  
-- [ ] **e)** Tie-down — check, clear  
-- [ ] **f)** Tail skid and lower fin — visual inspection  
-- [ ] **g)** Static dischargers — visual inspection  
+4. Empennage:  
+- [ ] a) Stabilizers and control surfaces — visual inspection  
+- [ ] b) Hinges — visual inspection  
+- [ ] c) Elevator trim tab — visual inspection; check for movement and safety wire  
+- [ ] d) Rudder tab — visual inspection  
+- [ ] e) Tie-down — check, clear  
+- [ ] f) Tail skid and lower fin — visual inspection  
+- [ ] g) Static dischargers — visual inspection  
   
-**5. Fuselage, Right Side:**  
-- [ ] **a)** Fuselage skin — visual inspection  
-- [ ] **b)** Static source — check for blockage  
-- [ ] **c)** Rear window — visual inspection  
-- [ ] **d)** Canopy, right side — visual inspection  
+5. Fuselage, Right Side:  
+- [ ] a) Fuselage skin — visual inspection  
+- [ ] b) Static source — check for blockage  
+- [ ] c) Rear window — visual inspection  
+- [ ] d) Canopy, right side — visual inspection  
   
-**6. Right Wing:**  
-- [ ] **a)** Flap and linkage — visual inspection  
-- [ ] **b)** Flap hinges and safety pin — visual inspection  
-- [ ] **c)** Aileron and linkage — visual inspection  
-- [ ] **d)** Aileron hinges and safety pin — visual inspection  
-- [ ] **e)** Foreign objects in aileron paddle — visual inspection  
-- [ ] **f)** Winglet — visual inspection  
-- [ ] **g)** Position light, strobe light (ACL) — visual inspection  
-- [ ] **h)** Tie-down — check, clear  
-- [ ] **i)** Entire wing surface — visual inspection  
-- [ ] **j)** 2 stall strips on wing — visual inspection  
-- [ ] **k)** Tank air outlet in lower surface — visual inspection  
-- [ ] **l)** Tank filler — visual check (for fuel qty. check use alternate means)  
-- [ ] **m)** Openings on lower surface — check for foreign objects and for traces of fuel  
-- [ ] **n)** Tank drain — drain to check for water and sediment (drain until free of contamination)  
-- [ ] **o)** Step — visual inspection  
-- [ ] **p)** Static discharger — visual inspection  
+6. Right Wing:  
+- [ ] a) Flap and linkage — visual inspection  
+- [ ] b) Flap hinges and safety pin — visual inspection  
+- [ ] c) Aileron and linkage — visual inspection  
+- [ ] d) Aileron hinges and safety pin — visual inspection  
+- [ ] e) Foreign objects in aileron paddle — visual inspection  
+- [ ] f) Winglet — visual inspection  
+- [ ] g) Position light, strobe light (ACL) — visual inspection  
+- [ ] h) Tie-down — check, clear  
+- [ ] i) Entire wing surface — visual inspection  
+- [ ] j) 2 stall strips on wing — visual inspection  
+- [ ] k) Tank air outlet in lower surface — visual inspection  
+- [ ] l) Tank filler — visual check (for fuel qty. check use alternate means)  
+- [ ] m) Openings on lower surface — check for foreign objects and for traces of fuel  
+- [ ] n) Tank drain — drain to check for water and sediment (drain until free of contamination)  
+- [ ] o) Step — visual inspection  
+- [ ] p) Static discharger — visual inspection  
   
-**7. Right Main Landing Gear:**  
-- [ ] **a)** Landing gear strut or fairing (if installed) — visual inspection  
-- [ ] **b)** Wear, tread depth of tires — check  
-- [ ] **c)** Tire, wheel, brake — visual inspection  
-- [ ] **d)** Brakes — check for leaks  
-- [ ] **e)** Slip marks — visual inspection  
-- [ ] **f)** Chocks — remove  
+7. Right Main Landing Gear:  
+- [ ] a) Landing gear strut or fairing (if installed) — visual inspection  
+- [ ] b) Wear, tread depth of tires — check  
+- [ ] c) Tire, wheel, brake — visual inspection  
+- [ ] d) Brakes — check for leaks  
+- [ ] e) Slip marks — visual inspection  
+- [ ] f) Chocks — remove  
   
-**8. Front Fuselage:**  
-- [ ] **a)** Engine oil level — check dipstick (inspection door on left side)  
-- [ ] **b)** Gearbox oil level — check visually (inspection door on left side)  
-- [ ] **c)** Cowling — visual inspection  
-- [ ] **d)** 4 air intakes on front cowling — check  
-- [ ] **e)** 2 air intakes on RH fuselage and cowling — check  
-- [ ] **f)** 1 air intake on LH fuselage — check  
-- [ ] **g)** Propeller — visual inspection  
-- [ ] **h)** Spinner including attachment screws — visual inspection  
-- [ ] **i)** Nose landing gear strut — visual inspection  
-- [ ] **j)** Tie-down (if installed) — check, clear  
-- [ ] **k)** Tire and wheel — visual inspection; check slip marks  
-- [ ] **l)** Wear, tread depth of tire — check  
-- [ ] **m)** Wheel fairing (if installed) — visual inspection  
-- [ ] **n)** Tow bar — removed  
-- [ ] **o)** Chocks — remove  
-- [ ] **p)** Exhaust — visual inspection  
+8. Front Fuselage:  
+- [ ] a) Engine oil level — check dipstick (inspection door on left side)  
+- [ ] b) Gearbox oil level — check visually (inspection door on left side)  
+- [ ] c) Cowling — visual inspection  
+- [ ] d) 4 air intakes on front cowling — check  
+- [ ] e) 2 air intakes on RH fuselage and cowling — check  
+- [ ] f) 1 air intake on LH fuselage — check  
+- [ ] g) Propeller — visual inspection  
+- [ ] h) Spinner including attachment screws — visual inspection  
+- [ ] i) Nose landing gear strut — visual inspection  
+- [ ] j) Tie-down (if installed) — check, clear  
+- [ ] k) Tire and wheel — visual inspection; check slip marks  
+- [ ] l) Wear, tread depth of tire — check  
+- [ ] m) Wheel fairing (if installed) — visual inspection  
+- [ ] n) Tow bar — removed  
+- [ ] o) Chocks — remove  
+- [ ] p) Exhaust — visual inspection  
   
-**9. Underside:**  
-- [ ] **a)** Antennas — visual inspection  
-- [ ] **b)** Gascolator — pull down on drain to check for water and sediment (drain until free of contamination)  
-- [ ] **c)** Venting pipes — check for blockage  
-- [ ] **d)** Fuselage underside — check for excessive contamination particularly by oil, fuel or other fluids  
+9. Underside:  
+- [ ] a) Antennas — visual inspection  
+- [ ] b) Gascolator — pull down on drain to check for water and sediment (drain until free of contamination)  
+- [ ] c) Venting pipes — check for blockage  
+- [ ] d) Fuselage underside — check for excessive contamination particularly by oil, fuel or other fluids  
   
-## 4A.5.2 Before Starting Engine  
+### 4A.5.2 Before Starting Engine  
+- [ ] 1. Pre-flight inspection — complete  
+- [ ] 2. Rudder pedals — adjusted and locked  
+- [ ] 3. Passengers — instructed  
+- [ ] 4. Adjustable backrests (if installed) — adjust to the upright position; verify proper fixation  
+- [ ] 5. Safety harnesses — all fastened  
+- [ ] 6. Rear door — closed and locked  
+- [ ] 7. Door lock (if installed) — unlocked, key removed  
+- [ ] 8. Front canopy — Position 1 or 2 ("cooling gap")  
+- [ ] 9. Canopy lock (if installed) — unlocked, key removed  
+- [ ] 10. Parking brake — set  
+- [ ] 11. Flight controls — free movement  
+- [ ] 12. Trim wheel — T/O  
+- [ ] 13. POWER lever — check IDLE  
+- [ ] 14. Friction device on POWER lever — adjusted  
+- [ ] 15. Alternate air — check CLOSED  
+- [ ] 16. Alternate static valve — check CLOSED  
+- [ ] 17. VOTER switch — check AUTO  
+- [ ] 18. Fuel pumps — check OFF  
+- [ ] 19. AVIONIC MASTER — check OFF  
+- [ ] 20. ELECTRIC MASTER — ON  
+- [ ] 21. G1000 (if installed) — wait until power-up completed; press ENT on MFD to acknowledge  
+- [ ] 22. White Wire annunciator panel (if installed) — check and press acknowledge button  
+- [ ] 23. COOL LVL caution (G1000) or WATERLEV caution (SED) — check OFF  
+- [ ] 24. Fuel temperature — check  
   
-- [ ] **1.** Pre-flight inspection — complete  
-- [ ] **2.** Rudder pedals — adjusted and locked  
-- [ ] **3.** Passengers — instructed  
-- [ ] **4.** Adjustable backrests (if installed) — adjust to the upright position; verify proper fixation  
-- [ ] **5.** Safety harnesses — all fastened  
-- [ ] **6.** Rear door — closed and locked  
-- [ ] **7.** Door lock (if installed) — unlocked, key removed  
-- [ ] **8.** Front canopy — Position 1 or 2 ("cooling gap")  
-- [ ] **9.** Canopy lock (if installed) — unlocked, key removed  
-- [ ] **10.** Parking brake — set  
-- [ ] **11.** Flight controls — free movement  
-- [ ] **12.** Trim wheel — T/O  
-- [ ] **13.** POWER lever — check IDLE  
-- [ ] **14.** Friction device on POWER lever — adjusted  
-- [ ] **15.** Alternate air — check CLOSED  
-- [ ] **16.** Alternate static valve — check CLOSED  
-- [ ] **17.** VOTER switch — check AUTO  
-- [ ] **18.** Fuel pumps — check OFF  
-- [ ] **19.** AVIONIC MASTER — check OFF  
-- [ ] **20.** ELECTRIC MASTER — ON  
-- [ ] **21.** G1000 (if installed) — wait until power-up completed; press ENT on MFD to acknowledge  
-- [ ] **22.** White Wire annunciator panel (if installed) — check and press acknowledge button  
-- [ ] **23.** COOL LVL caution (G1000) or WATERLEV caution (SED) — check OFF  
-- [ ] **24.** Fuel temperature — check  
+### 4A.5.3 Starting Engine  
+- [ ] 1. Strobe lights (ACL) — ON  
+- [ ] 2. ENGINE MASTER — ON  
+- [ ] 3. Annunciations / GLOW ON (G1000) or GLOW (White Wire) — check ON  
+- [ ] 4. Annunciations / engine indications — check  
+After GLOW indication is extinguished:  
+- [ ] 5. START KEY — START as required / release when engine has started  
+- [ ] 6. Annunciations / engine indications — check OK/normal range  
+- [ ] 7. Annunciations / STARTER (G1000) or START (White Wire) — check OFF  
+- [ ] 8. Annunciations / Oil pressure — check OK  
+- [ ] 9. Circuit breakers — check all IN  
+- [ ] 10. Idle RPM — check, 710 ±30 RPM (above 7,000 ft pressure altitude idle RPM might be higher)  
   
-## 4A.5.3 Starting Engine  
+### 4A.5.4 Before Taxiing  
+- [ ] 1. AVIONIC MASTER — ON  
+- [ ] 2. Power lever — as required, max. 50% if engine temperature below green range  
+- [ ] 3. Electrical equipment — ON as required  
+- [ ] 4. Flight instruments and avionics — set as required  
+- [ ] 5. Flood light — ON, test function, as required  
+- [ ] 6. Pitot heating — ON; check annunciation and observe increase in alternator load  
+- [ ] 7. Pitot heating — OFF  
+- [ ] 8. Strobe lights (ACLs) — check ON  
+- [ ] 9. Position lights, landing and taxi lights — as required  
+- [ ] 10. Primary flight display PFD (if G1000 and autopilot GFC 700 installed) — NO AUTOPILOT ANNUNCIATIONS  
+- [ ] 11. Autopilot disconnect tone (if autopilot GFC 700 installed) — NOTE  
+- [ ] 12. MANUAL ELECTRIC TRIM — TEST: Press AP DISC button down and hold while commanding trim. Manual electric trim should not operate either nose up or nose down.  
+- [ ] 13. AUTOPILOT (if G1000 and GFC 700 installed) — engage by pressing AP button  
+- [ ] 14. AP DISC switch (if G1000 and GFC 700 installed) — press; verify autopilot disconnects; check tone  
+- [ ] 15. TRIM — set to take-off position manually  
   
-- [ ] **1.** Strobe lights (ACL) — ON  
-- [ ] **2.** ENGINE MASTER — ON  
-- [ ] **3.** Annunciations / GLOW ON (G1000) or GLOW (White Wire) — check ON  
-- [ ] **4.** Annunciations / engine indications — check  
+### 4A.5.5 Taxiing  
+- [ ] 1. Parking brake — release  
+- [ ] 2. Brakes — test  
+- [ ] 3. Flight instrumentation and avionics — check for correct indications  
+- [ ] 4. Fuel pumps — check OFF  
   
-**After GLOW indication is extinguished:**  
+### 4A.5.6 Before Take-Off  
+- [ ] 1. Position airplane into wind if possible.  
+- [ ] 2. Parking brake — set  
+- [ ] 3. Adjustable backrests (if installed) — verify upright position and proper fixation  
+- [ ] 4. Safety harnesses — fastened  
+- [ ] 5. Rear door — check closed and locked  
+- [ ] 6. Front canopy — closed and locked  
+- [ ] 7. Door warning (DOOR OPEN / DOORS) — check no indication  
+- [ ] 8. Annunciations / engine indications — check OK / normal range  
+- [ ] 9. Circuit breakers — check pressed in  
+- [ ] 10. Longitudinal trim — set T/O  
+- [ ] 11. Fuel valve — check NORMAL  
+- [ ] 12. FLAPS — check function & indicator / set T/O  
+- [ ] 13. Flight controls — unrestricted free movement, correct sense  
+- [ ] 14. Pitot heating — ON, if required  
+- [ ] 15. Landing light — ON, if required  
+ECU / Fuel Pump Test Sequence:  
+- [ ] 1. POWER lever — IDLE  
+- [ ] 2. Propeller RPM — check below 1000 RPM  
+- [ ] 3. Fuel pumps — check OFF  
+- [ ] 4. VOTER switch — check AUTO  
+- [ ] 5. All engine temperatures — check in the green range  
+- [ ] 6. Parking brake — check set  
+- [ ] 7. ECU TEST button — press and hold  
+- [ ] 8. ECU A/B FAIL (G1000) or ECU A/B (White Wire) lights — verify both OFF. Test sequence completed.  
+- [ ] 9. ECU TEST button — release  
+- [ ] 10. VOTER switch — ECU A  
+- [ ] 11. Engine — check running without a change  
+- [ ] 12. VOTER switch — AUTO  
+- [ ] 13. Engine — check running without a change  
+- [ ] 14. VOTER switch — ECU B  
+- [ ] 15. Engine — check running without a change  
+- [ ] 16. VOTER switch — AUTO  
+Available Power Check:  
+- [ ] 1. POWER lever — MAX for 10 seconds  
+- [ ] 2. Annunciations — check OK / normal range  
+- [ ] 3. Instruments — check within normal range  
+- [ ] 4. RPM — stabilizes at 2200 to 2300 RPM (min. 2100 RPM below -10°C/14°F)  
+- [ ] 5. LOAD indication — stabilizes at 88% to 100%  
+- [ ] 6. POWER lever — IDLE  
+- [ ] 7. Engine instruments — check in green range  
+- [ ] 8. Fuel pumps — ON  
+- [ ] 9. Parking brake — release  
   
-- [ ] **5.** START KEY — START as required / release when engine has started  
-- [ ] **6.** Annunciations / engine indications — check OK/normal range  
-- [ ] **7.** Annunciations / STARTER (G1000) or START (White Wire) — check OFF  
-- [ ] **8.** Annunciations / Oil pressure — check OK  
-- [ ] **9.** Circuit breakers — check all IN  
-- [ ] **10.** Idle RPM — check, 710 ±30 RPM (above 7,000 ft pressure altitude idle RPM might be higher)  
-  
-## 4A.5.4 Before Taxiing  
-  
-- [ ] **1.** AVIONIC MASTER — ON  
-- [ ] **2.** Power lever — as required, max. 50% if engine temperature below green range  
-- [ ] **3.** Electrical equipment — ON as required  
-- [ ] **4.** Flight instruments and avionics — set as required  
-- [ ] **5.** Flood light — ON, test function, as required  
-- [ ] **6.** Pitot heating — ON; check annunciation and observe increase in alternator load  
-- [ ] **7.** Pitot heating — OFF  
-- [ ] **8.** Strobe lights (ACLs) — check ON  
-- [ ] **9.** Position lights, landing and taxi lights — as required  
-- [ ] **10.** Primary flight display PFD (if G1000 and autopilot GFC 700 installed) — NO AUTOPILOT ANNUNCIATIONS  
-- [ ] **11.** Autopilot disconnect tone (if autopilot GFC 700 installed) — NOTE  
-- [ ] **12.** MANUAL ELECTRIC TRIM — TEST: Press AP DISC button down and hold while commanding trim. Manual electric trim should not operate either nose up or nose down.  
-- [ ] **13.** AUTOPILOT (if G1000 and GFC 700 installed) — engage by pressing AP button  
-- [ ] **14.** AP DISC switch (if G1000 and GFC 700 installed) — press; verify autopilot disconnects; check tone  
-- [ ] **15.** TRIM — set to take-off position manually  
-  
-## 4A.5.5 Taxiing  
-  
-- [ ] **1.** Parking brake — release  
-- [ ] **2.** Brakes — test  
-- [ ] **3.** Flight instrumentation and avionics — check for correct indications  
-- [ ] **4.** Fuel pumps — check OFF  
-  
-## 4A.5.6 Before Take-Off  
-  
-- [ ] **1.** Position airplane into wind if possible.  
-- [ ] **2.** Parking brake — set  
-- [ ] **3.** Adjustable backrests (if installed) — verify upright position and proper fixation  
-- [ ] **4.** Safety harnesses — fastened  
-- [ ] **5.** Rear door — check closed and locked  
-- [ ] **6.** Front canopy — closed and locked  
-- [ ] **7.** Door warning (DOOR OPEN / DOORS) — check no indication  
-- [ ] **8.** Annunciations / engine indications — check OK / normal range  
-- [ ] **9.** Circuit breakers — check pressed in  
-- [ ] **10.** Longitudinal trim — set T/O  
-- [ ] **11.** Fuel valve — check NORMAL  
-- [ ] **12.** FLAPS — check function & indicator / set T/O  
-- [ ] **13.** Flight controls — unrestricted free movement, correct sense  
-- [ ] **14.** Pitot heating — ON, if required  
-- [ ] **15.** Landing light — ON, if required  
-  
-**ECU / Fuel Pump Test Sequence:**  
-  
-- [ ] **1.** POWER lever — IDLE  
-- [ ] **2.** Propeller RPM — check below 1000 RPM  
-- [ ] **3.** Fuel pumps — check OFF  
-- [ ] **4.** VOTER switch — check AUTO  
-- [ ] **5.** All engine temperatures — check in the green range  
-- [ ] **6.** Parking brake — check set  
-- [ ] **7.** ECU TEST button — press and hold  
-- [ ] **8.** ECU A/B FAIL (G1000) or ECU A/B (White Wire) lights — verify both OFF. Test sequence completed.  
-- [ ] **9.** ECU TEST button — release  
-- [ ] **10.** VOTER switch — ECU A  
-- [ ] **11.** Engine — check running without a change  
-- [ ] **12.** VOTER switch — AUTO  
-- [ ] **13.** Engine — check running without a change  
-- [ ] **14.** VOTER switch — ECU B  
-- [ ] **15.** Engine — check running without a change  
-- [ ] **16.** VOTER switch — AUTO  
-  
-**Available Power Check:**  
-  
-- [ ] **1.** POWER lever — MAX for 10 seconds  
-- [ ] **2.** Annunciations — check OK / normal range  
-- [ ] **3.** Instruments — check within normal range  
-- [ ] **4.** RPM — stabilizes at 2200 to 2300 RPM (min. 2100 RPM below -10°C/14°F)  
-- [ ] **5.** LOAD indication — stabilizes at 88% to 100%  
-- [ ] **6.** POWER lever — IDLE  
-- [ ] **7.** Engine instruments — check in green range  
-- [ ] **8.** Fuel pumps — ON  
-- [ ] **9.** Parking brake — release  
-  
-## 4A.5.7 Take-Off  
-  
-### Normal Take-Off Procedure  
-  
-- [ ] **1.** Transponder — as required  
-- [ ] **2.** POWER lever — MAX  
-- [ ] **3.** Elevator — neutral  
-- [ ] **4.** Rudder — maintain direction  
-- [ ] **5.** Nose wheel lift-off (vR):  
+### 4A.5.7 Take-Off  
+Normal Take-Off Procedure  
+- [ ] 1. Transponder — as required  
+- [ ] 2. POWER lever — MAX  
+- [ ] 3. Elevator — neutral  
+- [ ] 4. Rudder — maintain direction  
+- [ ] 5. Nose wheel lift-off (vR):  
 
 | 940 kg (2072 lb) | 1000 kg (2205 lb) | 1100 kg (2425 lb) | 1200 kg (2646 lb) | 1280 kg (2822 lb) and above |
 | ---------------- | ----------------- | ----------------- | ----------------- | --------------------------- |
 | 56 KIAS | 58 KIAS | 61 KIAS | 65 KIAS | 67 KIAS |
   
-  
-**6.** Airspeed for initial climb:  
+6. Airspeed for initial climb:  
 
 | 940 kg (2072 lb) | 1000 kg (2205 lb) | 1100 kg (2425 lb) | 1200 kg (2646 lb) | 1280 kg (2822 lb) and above |
 | ---------------- | ----------------- | ----------------- | ----------------- | --------------------------- |
 | 62 KIAS | 65 KIAS | 67 KIAS | 70 KIAS | 72 KIAS |
   
   
-**Above a safe height:**  
+Above a safe height:  
+- [ ] 7. Landing light — OFF  
+- [ ] 8. Fuel pumps — OFF  
+- [ ] 9. POWER lever — reduce to 92% load  
   
-- [ ] **7.** Landing light — OFF  
-- [ ] **8.** Fuel pumps — OFF  
-- [ ] **9.** POWER lever — reduce to 92% load  
+### 4A.5.8 Climb  
+Procedure for Take-Off Climb  
+- [ ] 1. Flaps — T/O  
+- [ ] 2. Airspeed — 72 KIAS  
+- [ ] 3. POWER lever — 92% or maximum 2100 RPM  
+- [ ] 4. Annunciations / engine indications — monitor  
+- [ ] 5. Rudder — as required  
+Cruise Climb  
+- [ ] 1. Flaps — UP  
+- [ ] 2. Airspeed — 88 KIAS  
+- [ ] 3. POWER lever — 92% or maximum 2100 RPM  
+- [ ] 4. Annunciations / engine indications — monitor  
+- [ ] 5. Rudder — as required  
   
-## 4A.5.8 Climb  
+### 4A.5.9 Cruise  
+- [ ] 1. Flaps — UP  
+- [ ] 2. POWER lever — up to 92% or maximum 2100 RPM  
+- [ ] 3. Trim — as required  
+- [ ] 4. Fuel transfer — repeat as required (per 4A.5.10)  
   
-### Procedure for Take-Off Climb  
+### 4A.5.10 Fuel Transfer  
+- [ ] 1. Fuel transfer switch — ON  
+- [ ] 2. Fuel transfer switch — OFF, if required  
   
-- [ ] **1.** Flaps — T/O  
-- [ ] **2.** Airspeed — 72 KIAS  
-- [ ] **3.** POWER lever — 92% or maximum 2100 RPM  
-- [ ] **4.** Annunciations / engine indications — monitor  
-- [ ] **5.** Rudder — as required  
+### 4A.5.11 Descent  
+- [ ] 1. POWER lever — as required  
+- [ ] 2. Airspeed — as required  
+- [ ] 3. Trim — as required  
+- [ ] 4. Annunciations / engine indications — monitor  
   
-### Cruise Climb  
-  
-- [ ] **1.** Flaps — UP  
-- [ ] **2.** Airspeed — 88 KIAS  
-- [ ] **3.** POWER lever — 92% or maximum 2100 RPM  
-- [ ] **4.** Annunciations / engine indications — monitor  
-- [ ] **5.** Rudder — as required  
-  
-## 4A.5.9 Cruise  
-  
-- [ ] **1.** Flaps — UP  
-- [ ] **2.** POWER lever — up to 92% or maximum 2100 RPM  
-- [ ] **3.** Trim — as required  
-- [ ] **4.** Fuel transfer — repeat as required (per 4A.5.10)  
-  
-## 4A.5.10 Fuel Transfer  
-  
-- [ ] **1.** Fuel transfer switch — ON  
-- [ ] **2.** Fuel transfer switch — OFF, if required  
-  
-## 4A.5.11 Descent  
-  
-- [ ] **1.** POWER lever — as required  
-- [ ] **2.** Airspeed — as required  
-- [ ] **3.** Trim — as required  
-- [ ] **4.** Annunciations / engine indications — monitor  
-  
-## 4A.5.12 Approach & Landing  
-  
-### Approach:  
-- [ ] **1.** Adjustable backrests (if installed) — adjust to upright position; verify proper fixation  
-- [ ] **2.** Safety harnesses — check fastened and tightened  
-- [ ] **3.** Controls — no interference by foreign objects  
-- [ ] **4.** Landing light — as required  
-- [ ] **5.** Fuel pumps — ON  
-- [ ] **6.** Parking brake — check released  
-- [ ] **7.** Trim — as required  
-  
-### Before Landing:  
-  
-**8.** Airspeed — see table below:  
+### 4A.5.12 Approach & Landing  
+Approach:  
+- [ ] 1. Adjustable backrests (if installed) — adjust to upright position; verify proper fixation  
+- [ ] 2. Safety harnesses — check fastened and tightened  
+- [ ] 3. Controls — no interference by foreign objects  
+- [ ] 4. Landing light — as required  
+- [ ] 5. Fuel pumps — ON  
+- [ ] 6. Parking brake — check released  
+- [ ] 7. Trim — as required  
+Before Landing:  
+8. Airspeed — see table below:  
 
 | Flaps | 940 kg (2072 lb) | 1000 kg (2205 lb) | 1100 kg (2425 lb) | 1200 kg (2646 lb) | 1216 kg (2681 lb) | 1280 kg (2822 lb) |
 | ----- | ---------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
@@ -873,67 +847,61 @@ A landing on grass is recommended to reduce landing run due to greater rolling r
 | LDG | 66 KIAS | 68 KIAS | 72 KIAS | 76 KIAS | 76 KIAS | 77 KIAS |
   
   
-- [ ] **9.** FLAPS — as required  
-- [ ] **10.** POWER lever — as required  
-- [ ] **11.** Trim — as required  
-**12.** Final approach speed:  
+- [ ] 9. FLAPS — as required  
+- [ ] 10. POWER lever — as required  
+- [ ] 11. Trim — as required  
+12. Final approach speed:  
 
 | Flaps | 940 kg (2072 lb) | 1000 kg (2205 lb) | 1100 kg (2425 lb) | 1200 kg (2646 lb) | 1216 kg (2681 lb) | 1280 kg (2822 lb) |
 | ----- | ---------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | LDG | 66 KIAS | 68 KIAS | 72 KIAS | 76 KIAS | 76 KIAS | 77 KIAS |
   
   
-## 4A.5.13 Go-Around  
+##   
+### 4A.5.13 Go-Around  
+- [ ] 1. POWER lever — MAX  
+- [ ] 2. Airspeed — 72 KIAS  
+- [ ] 3. Flaps — T/O  
+Above a safe height:  
+- [ ] 4. Airspeed — 88 KIAS  
+- [ ] 5. Flaps — UP  
   
-- [ ] **1.** POWER lever — MAX  
-- [ ] **2.** Airspeed — 72 KIAS  
-- [ ] **3.** Flaps — T/O  
+### 4A.5.14 After Landing  
+- [ ] 1. POWER lever — IDLE  
+- [ ] 2. Brakes — as required  
+- [ ] 3. Transponder — OFF / STBY  
+- [ ] 4. Pitot heating — OFF  
+- [ ] 5. Avionics — as required  
+- [ ] 6. Lights — as required  
+- [ ] 7. Flaps — UP  
+- [ ] 8. Fuel pumps — OFF  
   
-**Above a safe height:**  
+### 4A.5.15 Engine Shut-Down  
+- [ ] 1. Parking brake — set  
+- [ ] 2. POWER lever — up to 10% load for 1 minute  
+- [ ] 3. Engine indications — check  
+- [ ] 4. ELT — check not transmitting on 121.5 MHz  
+- [ ] 5. AVIONIC MASTER — OFF  
+- [ ] 6. Electrical consumers — OFF  
+- [ ] 7. ENGINE MASTER — OFF  
+- [ ] 8. Strobe — OFF  
+- [ ] 9. ELECTRIC MASTER — OFF  
   
-- [ ] **4.** Airspeed — 88 KIAS  
-- [ ] **5.** Flaps — UP  
+### 4A.5.16 Post Flight Inspection  
+- [ ] 1. Record any problem found in flight and during the post-flight check in the log book.  
+- [ ] 2. Park the airplane.  
+- [ ] 3. If necessary, moor the airplane.  
   
-## 4A.5.14 After Landing  
+### 4A.5.17 Parking  
+- [ ] 1. Parking brake — release, use chocks  
+- [ ] 2. Airplane — moor, if unsupervised for extended period  
+- [ ] 3. Pitot probe — cover  
   
-- [ ] **1.** POWER lever — IDLE  
-- [ ] **2.** Brakes — as required  
-- [ ] **3.** Transponder — OFF / STBY  
-- [ ] **4.** Pitot heating — OFF  
-- [ ] **5.** Avionics — as required  
-- [ ] **6.** Lights — as required  
-- [ ] **7.** Flaps — UP  
-- [ ] **8.** Fuel pumps — OFF  
-- [ ]   
-## 4A.5.15 Engine Shut-Down  
-  
-- [ ] **1.** Parking brake — set  
-- [ ] **2.** POWER lever — up to 10% load for 1 minute  
-- [ ] **3.** Engine indications — check  
-- [ ] **4.** ELT — check not transmitting on 121.5 MHz  
-- [ ] **5.** AVIONIC MASTER — OFF  
-- [ ] **6.** Electrical consumers — OFF  
-- [ ] **7.** ENGINE MASTER — OFF  
-- [ ] **8.** Strobe — OFF  
-- [ ] **9.** ELECTRIC MASTER — OFF  
-  
-## 4A.5.16 Post Flight Inspection  
-  
-- [ ] **1.** Record any problem found in flight and during the post-flight check in the log book.  
-- [ ] **2.** Park the airplane.  
-- [ ] **3.** If necessary, moor the airplane.  
-  
-## 4A.5.17 Parking  
-  
-- [ ] **1.** Parking brake — release, use chocks  
-- [ ] **2.** Airplane — moor, if unsupervised for extended period  
-- [ ] **3.** Pitot probe — cover  
   
   
 ## CHAPTER 4B — ABNORMAL OPERATING PROCEDURES  
   
 ### 4B.1 Precautionary Landing  
-  
 - [ ] **1.** Select appropriate landing area.  
 - [ ] **2.** Consider wind.  
 - [ ] **3.** Approach: Overfly the landing area at a suitable height if possible to recognize obstacles and assess wind speed/direction.  
