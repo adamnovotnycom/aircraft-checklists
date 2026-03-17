@@ -333,7 +333,7 @@ pubslished: 2023-08-01
 - [ ] 2. Avoid stalls, low airspeed, and uncoordinated or abrupt control inputs.  
 - [ ] 3. Land as soon as practicable.  
   
-## Emergency CAS: STARTER ENGAGED Warning  
+### Emergency CAS: STARTER ENGAGED Warning  
 *If on ground:*  
 - [ ] a. Starter Button — RELEASE  
 *If starter does not disengage (stuck button, relay, or solenoid failure):*  
@@ -351,440 +351,328 @@ pubslished: 2023-08-01
 ## SECTION 3A: ABNORMAL PROCEDURES  
   
 ### Brake Failure During Taxi  
+- [ ] 1. Engine Power — AS REQUIRED  
+- [ ] 2. Directional Control — MAINTAIN WITH RUDDER  
+- [ ] 3. Brake Pedal(s) — PUMP  
+*If directional control cannot be maintained:*  
+- [ ] a. Engine Knob — OFF  
   
-- [ ] 1. Engine Power — **AS REQUIRED**  
-- [ ] 2. Directional Control — **MAINTAIN WITH RUDDER**  
-- [ ] 3. Brake Pedal(s) — **PUMP**  
+### Communications Failure  
+- [ ] 1. Switches and Controls — CHECK  
+- [ ] 2. Frequency — CHANGE  
+- [ ] 3. COM 1 (B12) & COM 2/AUDIO PANL (C12) CB — SET  
+- [ ] 4. Headset — CHANGE  
   
-> ◆ *If directional control cannot be maintained:*  
-
-- [ ] a. Engine Knob — **OFF**  
-⸻  
-## Communications Failure  
-  
-- [ ] 1. Switches and Controls — **CHECK**  
-- [ ] 2. Frequency — **CHANGE**  
-- [ ] 3. COM 1 (B12) & COM 2/AUDIO PANL (C12) CB — **SET**  
-- [ ] 4. Headset — **CHANGE**  
-⸻  
-## Door Open  
-  
-> ◆ *If during takeoff roll:*  
-
-- [ ] a. Takeoff — **ABORT**  
-  
-> ◆ *If in flight:*  
-
-- [ ] a. Airplane Control — **MAINTAIN**  
+### Door Open  
+*If during takeoff roll:*  
+- [ ] a. Takeoff — ABORT  
+*If in flight:*  
+- [ ] a. Airplane Control — MAINTAIN  
 - [ ] b. Land as soon as practicable.  
-⸻  
-## Fuel Valve Malfunction  
   
-> ◆ *If manual fuel selector operation is difficult:*  
-
-- [ ] a. FUEL VALVE Circuit Breaker (C3) — **PULL**  
-- [ ] b. Fuel Selector — **LEFT OR RIGHT (AS REQ'D)**  
+### Fuel Valve Malfunction  
+*If manual fuel selector operation is difficult:*  
+- [ ] a. FUEL VALVE Circuit Breaker (C3) — PULL  
+- [ ] b. Fuel Selector — LEFT OR RIGHT (AS REQ'D)  
+*If difficult operation persists:*  
+- [ ] (1) Fuel Selector — LEAVE COVER OPEN FOR MANUAL OPERATION  
+*If condition is resolved:*  
+- [ ] (1) FUEL VALVE Circuit Breaker (C3) — SET  
+- [ ] (2) Fuel Selector — CLOSE COVER FOR AUTOMATIC OPERATION  
   
-> ❍ *If difficult operation persists:*  
-
-- [ ] (1) Fuel Selector — **LEAVE COVER OPEN FOR MANUAL OPERATION**  
-  
-> ❍ *If condition is resolved:*  
-
-- [ ] (1) FUEL VALVE Circuit Breaker (C3) — **SET**  
-- [ ] (2) Fuel Selector — **CLOSE COVER FOR AUTOMATIC OPERATION**  
-⸻  
-## Inadvertent Icing Encounter  
-  
-- [ ] 1. Probe Heat — **ON**  
+### Inadvertent Icing Encounter  
+- [ ] 1. Probe Heat — ON  
 - [ ] 2. Exit icing conditions. Turn back or change altitude.  
-- [ ] 3. Temperature Selector — **HOT**  
-- [ ] 4. Vent Selector — **DEFROST**  
-- [ ] 5. Airflow Selector — **MAXIMUM**  
-- [ ] 6. Panel Vents — **CLOSED**  
-- [ ] 7. Alternate Induction Air — **ON**  
-⸻  
-## Inadvertent IMC Encounter  
+- [ ] 3. Temperature Selector — HOT  
+- [ ] 4. Vent Selector — DEFROST  
+- [ ] 5. Airflow Selector — MAXIMUM  
+- [ ] 6. Panel Vents — CLOSED  
+- [ ] 7. Alternate Induction Air — ON  
   
-- [ ] 1. Airplane Control — **ESTABLISH STRAIGHT AND LEVEL FLIGHT**  
-- [ ] 2. Autopilot — **ENGAGE TO HOLD HEADING AND ALTITUDE**  
-- [ ] 3. Heading — **RESET TO INITIATE 180° TURN**  
-⸻  
-## Landing With Failed Brakes  
+### Inadvertent IMC Encounter  
+- [ ] 1. Airplane Control — ESTABLISH STRAIGHT AND LEVEL FLIGHT  
+- [ ] 2. Autopilot — ENGAGE TO HOLD HEADING AND ALTITUDE  
+- [ ] 3. Heading — RESET TO INITIATE 180° TURN  
   
-> ◆ *One brake inoperative:*  
-
+### Landing With Failed Brakes  
+*One brake inoperative:*  
 - [ ] a. Land on the side of runway corresponding to the inoperative brake.  
 - [ ] b. Maintain directional control using rudder and working brake.  
-  
-> ◆ *Both brakes inoperative:*  
-
+*Both brakes inoperative:*  
 - [ ] a. Divert to the longest, widest runway with the most direct headwind.  
 - [ ] b. Land on downwind side of the runway.  
 - [ ] c. Use the rudder for obstacle avoidance.  
 - [ ] d. Perform Emergency Engine Shutdown On Ground Checklist.  
-⸻  
-## Landing With Flat Tire  
   
-> ◆ *Main Gear:*  
-
+### Landing With Flat Tire  
+*Main Gear:*  
 - [ ] a. Land on the side of the runway corresponding to the good tire.  
 - [ ] b. Maintain directional control with the brakes and rudder.  
 - [ ] c. Do not taxi. Stop airplane and perform a normal engine shutdown.  
-  
-> ◆ *Nose Gear:*  
-
+*Nose Gear:*  
 - [ ] a. Land in the center of the runway.  
 - [ ] b. Hold the nosewheel off the ground as long as possible.  
 - [ ] c. Do not taxi. Stop airplane and perform a normal engine shutdown.  
-⸻  
-## Loss of All Flight Displays  
   
-- [ ] 1. BAT 1 and BAT 2 Switches — **VERIFY ON**  
-- [ ] 2. ALT 1 and ALT 2 Switches — **VERIFY ON**  
+### Loss of All Flight Displays  
+- [ ] 1. BAT 1 and BAT 2 Switches — VERIFY ON  
+- [ ] 2. ALT 1 and ALT 2 Switches — VERIFY ON  
 - [ ] 3. Land as soon as possible.  
-⸻  
-## Loss of Reliable Airspeed Indication  
   
-- [ ] 1. Probe Heat — **ON**  
-- [ ] 2. AP DISC Button — **PRESS**  
-- [ ] 3. AP CTRL (A3) Circuit Breaker — **PULL**  
+### Loss of Reliable Airspeed Indication  
+- [ ] 1. Probe Heat — ON  
+- [ ] 2. AP DISC Button — PRESS  
+- [ ] 3. AP CTRL (A3) Circuit Breaker — PULL  
 - [ ] 4. Land as soon as practicable.  
-⸻  
-## Loss of Reliable Altitude Indication  
   
-- [ ] 1. Probe Heat — **ON**  
-⸻  
-## Abnormal CAS: ALTERNATOR 1 CURRENT Caution  
+### Loss of Reliable Altitude Indication  
+- [ ] 1. Probe Heat — ON  
   
-- [ ] 1. ALT 1 (D11) Circuit Breaker — **SET**  
-- [ ] 2. ALT 1 Switch — **CYCLE**  
-  
-> ◆ *If alternator does not reset:*  
-
-- [ ] a. ALT 1 Switch — **OFF**  
-- [ ] b. Non-Essential Loads — **REDUCE**  
-- [ ] (1) Air Conditioning — **OFF**  
-- [ ] (2) Cabin Fan — **OFF**  
-- [ ] (3) Landing Lights (LAND Switch) — **OFF**  
-- [ ] (4) CONV SYS 1 (D8) Circuit Breaker — **PULL**  
-- [ ] (5) CONV SYS 2 (D9) Circuit Breaker — **PULL**  
-- [ ] (6) EVS CAMERA (C5) Circuit Breaker (if installed) — **PULL**  
+### Abnormal CAS: ALTERNATOR 1 CURRENT Caution  
+- [ ] 1. ALT 1 (D11) Circuit Breaker — SET  
+- [ ] 2. ALT 1 Switch — CYCLE  
+*If alternator does not reset:*  
+- [ ] a. ALT 1 Switch — OFF  
+- [ ] b. Non-Essential Loads — REDUCE  
+- [ ] (1) Air Conditioning — OFF  
+- [ ] (2) Cabin Fan — OFF  
+- [ ] (3) Landing Lights (LAND Switch) — OFF  
+- [ ] (4) CONV SYS 1 (D8) Circuit Breaker — PULL  
+- [ ] (5) CONV SYS 2 (D9) Circuit Breaker — PULL  
+- [ ] (6) EVS CAMERA (C5) Circuit Breaker (if installed) — PULL  
 - [ ] c. Continue flight, avoiding IMC or night flight as able (reduced power redundancy).  
-⸻  
-## Abnormal CAS: ALTERNATOR 2 CURRENT Caution  
   
-- [ ] 1. ALT 2 (B5) Circuit Breaker — **SET**  
-- [ ] 2. ALT 2 Switch — **CYCLE**  
-  
-> ◆ *If alternator does not reset:*  
-
-- [ ] a. ALT 2 Switch — **OFF**  
+### Abnormal CAS: ALTERNATOR 2 CURRENT Caution  
+- [ ] 1. ALT 2 (B5) Circuit Breaker — SET  
+- [ ] 2. ALT 2 Switch — CYCLE  
+*If alternator does not reset:*  
+- [ ] a. ALT 2 Switch — OFF  
 - [ ] b. Continue flight, avoiding IMC or night flight as able (reduced power redundancy).  
-⸻  
-## Abnormal CAS: BATTERY 1 CURRENT Caution  
   
-- [ ] 1. Main Bus 1, 2 and Non-Essential Bus Loads — **REDUCE**  
-    - [ ] a. Air Conditioning — **OFF**  
-    - [ ] b. Cabin Fan — **OFF**  
-    - [ ] c. Landing Lights (LAND Switch) — **OFF**  
-    - [ ] d. CONV SYS 1 (D8) Circuit Breaker — **PULL**  
-    - [ ] e. CONV SYS 2 (D9) Circuit Breaker — **PULL**  
-    - [ ] f. EVS CAMERA (C5) Circuit Breaker (if installed) — **PULL**  
-- [ ] 2. Main Bus 1, 2 and Essential Voltages — **MONITOR**  
+### Abnormal CAS: BATTERY 1 CURRENT Caution  
+- [ ] 1. Main Bus 1, 2 and Non-Essential Bus Loads — REDUCE  
+    - [ ] a. Air Conditioning — OFF  
+    - [ ] b. Cabin Fan — OFF  
+    - [ ] c. Landing Lights (LAND Switch) — OFF  
+    - [ ] d. CONV SYS 1 (D8) Circuit Breaker — PULL  
+    - [ ] e. CONV SYS 2 (D9) Circuit Breaker — PULL  
+    - [ ] f. EVS CAMERA (C5) Circuit Breaker (if installed) — PULL  
+- [ ] 2. Main Bus 1, 2 and Essential Voltages — MONITOR  
 - [ ] 3. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: BATTERY 1 FAIL Caution  
   
-- [ ] 1. BAT 1 Switch — **OFF**  
+### Abnormal CAS: BATTERY 1 FAIL Caution  
+- [ ] 1. BAT 1 Switch — OFF  
 - [ ] 2. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: BATTERY 1 FAULT Caution  
   
-- [ ] 1. BAT 1 Switch — **OFF**  
-  
-> ◆ *If message extinguishes:*  
-
-- [ ] a. BAT 1 Switch — **ON**  
+### Abnormal CAS: BATTERY 1 FAULT Caution  
+- [ ] 1. BAT 1 Switch — OFF  
+*If message extinguishes:*  
+- [ ] a. BAT 1 Switch — ON  
 - [ ] b. Continue flight.  
-  
-> ◆ *If message persists or reoccurs:*  
-
-- [ ] a. BAT 1 Switch — **OFF**  
+*If message persists or reoccurs:*  
+- [ ] a. BAT 1 Switch — OFF  
 - [ ] b. Exit IMC as soon as practicable.  
 - [ ] c. Land as soon as practicable.  
-  
 - [ ] 2. Contact Cirrus for corrective action.  
-⸻  
-## Abnormal CAS: BATTERY 1 LOW Caution  
   
-> ◆ *If on ground, prior to engine start:*  
-
-- [ ] a. External Power — **CONNECT**  
-  
-> ◆ *If on ground with engine running, or in flight:*  
-
-- [ ] a. BAT 1 and ALT 1 Switches — **VERIFY ON**  
-- [ ] b. Main Bus 1 Voltage — **CHECK**  
+### Abnormal CAS: BATTERY 1 LOW Caution  
+*If on ground, prior to engine start:*  
+- [ ] a. External Power — CONNECT  
+*If on ground with engine running, or in flight:*  
+- [ ] a. BAT 1 and ALT 1 Switches — VERIFY ON  
+- [ ] b. Main Bus 1 Voltage — CHECK  
 - [ ] c. Service aircraft as soon as practicable.  
-⸻  
-## Abnormal CAS: CHT Caution  
   
-> ◆ *If on ground:*  
-
-- [ ] a. Power Lever — **REDUCE**  
-- [ ] b. Annunciations and Engine Temperatures — **MONITOR**  
-  
-> ❍ *If message persists:*  
-
-- [ ] (1) Power Lever — **MINIMUM REQUIRED**  
+### Abnormal CAS: CHT Caution  
+*If on ground:*  
+- [ ] a. Power Lever — REDUCE  
+- [ ] b. Annunciations and Engine Temperatures — MONITOR  
+*If message persists:*  
+- [ ] (1) Power Lever — MINIMUM REQUIRED  
 - [ ] (2) Do not dispatch.  
-  
-> ◆ *If in flight:*  
-
-- [ ] a. Power Lever — **REDUCE**  
-- [ ] b. Mixture — **ADJUST TO TOP OF GREEN ARC**  
-- [ ] c. Airspeed — **INCREASE**  
-- [ ] d. Annunciations and Engine Temperatures — **MONITOR**  
-  
-> ❍ *If message persists:*  
-
-- [ ] (1) Power Lever — **MINIMUM REQUIRED**  
-- [ ] (2) Engine Instruments — **MONITOR**  
-  
-> ❑ *If message persists:*  
-
+*If in flight:*  
+- [ ] a. Power Lever — REDUCE  
+- [ ] b. Mixture — ADJUST TO TOP OF GREEN ARC  
+- [ ] c. Airspeed — INCREASE  
+- [ ] d. Annunciations and Engine Temperatures — MONITOR  
+*If message persists:*  
+- [ ] (1) Power Lever — MINIMUM REQUIRED  
+- [ ] (2) Engine Instruments — MONITOR  
+*If message persists:*  
 - [ ] (a) Land as soon as practicable.  
-⸻  
-## Abnormal CAS: ECS RECIRC ON Advisory  
   
-- [ ] 1. Air Conditioner — **RECIRC DISABLED**  
-⸻  
-## Abnormal CAS: FLAPS AIRSPEED INHIBIT Caution  
+### Abnormal CAS: ECS RECIRC ON Advisory  
+- [ ] 1. Air Conditioner — RECIRC DISABLED  
   
-- [ ] 1. Airspeed — **INCREASE OR REDUCE, AS REQUIRED**  
+### Abnormal CAS: FLAPS AIRSPEED INHIBIT Caution  
+- [ ] 1. Airspeed — INCREASE OR REDUCE, AS REQUIRED  
     - OR  
-- [ ] 2. Flaps — **RETURN TO PREVIOUS POSITION**  
-⸻  
-## Abnormal CAS: FLAPS CLIMB Advisory  
+- [ ] 2. Flaps — RETURN TO PREVIOUS POSITION  
   
+### Abnormal CAS: FLAPS CLIMB Advisory  
 - [ ] 1. Flaps — **UP**  
-⸻  
-## Abnormal CAS: FLAPS DISAGREE Caution  
   
-- [ ] 1. Flaps — **CYCLE TO ACTUAL FLAP POSITION**  
-  
-> ◆ *If message extinguishes:*  
-
-- [ ] a. Flaps — **SELECT DESIRED FLAP POSITION**  
+### Abnormal CAS: FLAPS DISAGREE Caution  
+- [ ] 1. Flaps — CYCLE TO ACTUAL FLAP POSITION  
+*If message extinguishes:*  
+- [ ] a. Flaps — SELECT DESIRED FLAP POSITION  
 - [ ] b. Continue flight.  
-  
-> ◆ *If message persists:*  
-
-- [ ] a. Flaps — **MONITOR POSITION**  
+*If message persists:*  
+- [ ] a. Flaps — MONITOR POSITION  
 - [ ] b. Perform landing in most favorable flap position achievable.  
-⸻  
-## Abnormal CAS: FLAPS FAIL Caution  
   
-- [ ] 1. Flaps — **CYCLE TO ACTUAL FLAP POSITION**  
-  
-> ◆ *If message persists:*  
-
+### Abnormal CAS: FLAPS FAIL Caution  
+- [ ] 1. Flaps — CYCLE TO ACTUAL FLAP POSITION  
+*If message persists:*  
 - [ ] a. Perform landing with flaps at current position.  
-⸻  
-## Abnormal CAS: FLAPS SELECTOR FAIL Caution  
   
+### Abnormal CAS: FLAPS SELECTOR FAIL Caution  
 - [ ] 1. Perform landing with flaps at current position.  
-⸻  
-## Abnormal CAS: FUEL IMBALANCE Advisory  
   
-- [ ] 1. Fuel Quantity Gauges — **CHECK**  
-- [ ] 2. Fuel Selector — **SELECT FULLER TANK**  
-⸻  
-## Abnormal CAS: FUEL IMBALANCE Caution  
+### Abnormal CAS: FUEL IMBALANCE Advisory  
+- [ ] 1. Fuel Quantity Gauges — CHECK  
+- [ ] 2. Fuel Selector — SELECT FULLER TANK  
   
-- [ ] 1. Fuel Quantity Gauges — **CHECK**  
-- [ ] 2. Fuel Selector — **SELECT FULLER TANK**  
-⸻  
-## Abnormal CAS: FUEL LOW TOTAL Caution  
+### Abnormal CAS: FUEL IMBALANCE Caution  
+- [ ] 1. Fuel Quantity Gauges — CHECK  
+- [ ] 2. Fuel Selector — SELECT FULLER TANK  
   
-- [ ] 1. Fuel Quantity Gauges — **CHECK**  
-- [ ] 2. Totalized Fuel Quantity — **CHECK**  
-  
-> ◆ *If totalized value differs significantly from sensed quantity:*  
-
-- [ ] a. Initial Fuel Value — **VERIFY AND CORRECT**  
-  
-> ◆ *If message persists:*  
-
+### Abnormal CAS: FUEL LOW TOTAL Caution  
+- [ ] 1. Fuel Quantity Gauges — CHECK  
+- [ ] 2. Totalized Fuel Quantity — CHECK  
+*If totalized value differs significantly from sensed quantity:*  
+- [ ] a. Initial Fuel Value — VERIFY AND CORRECT  
+*If message persists:*  
 - [ ] a. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: FUEL PUMP OFF Caution  
   
-- [ ] 1. Fuel Pump — **ON (AS REQ'D)**  
-⸻  
-## Abnormal CAS: FUEL QTY MISCOMPARE Caution  
+### Abnormal CAS: FUEL PUMP OFF Caution  
+- [ ] 1. Fuel Pump — ON (AS REQ'D)  
   
-- [ ] 1. Fuel Quantity/Fuel Remaining — **COMPARE**  
+### Abnormal CAS: FUEL QTY MISCOMPARE Caution  
+- [ ] 1. Fuel Quantity/Fuel Remaining — COMPARE  
+*If totalized fuel quantity differs significantly from sensed quantity:*  
+- [ ] a. Initial Fuel Value — VERIFY AND CORRECT  
   
-> ◆ *If totalized fuel quantity differs significantly from sensed quantity:*  
-
-- [ ] a. Initial Fuel Value — **VERIFY AND CORRECT**  
-⸻  
-## Abnormal CAS: FUEL VALVE AUTO FAIL Caution  
+### Abnormal CAS: FUEL VALVE AUTO FAIL Caution  
+- [ ] 1. FUEL VALVE (C3) Circuit Breaker — PULL  
+- [ ] 2. Fuel Selector — LEFT OR RIGHT (AS REQ'D)  
   
-- [ ] 1. FUEL VALVE (C3) Circuit Breaker — **PULL**  
-- [ ] 2. Fuel Selector — **LEFT OR RIGHT (AS REQ'D)**  
-⸻  
-## Abnormal CAS: FUEL VALVE OFF Advisory  
+### Abnormal CAS: FUEL VALVE OFF Advisory  
+- [ ] 1. Fuel Selector — LEFT OR RIGHT (AS REQ'D)  
   
-- [ ] 1. Fuel Selector — **LEFT OR RIGHT (AS REQ'D)**  
-⸻  
-## Abnormal CAS: MAIN BUS 1 VOLTS Caution  
-  
-- [ ] 1. ALT 1 (D11) Circuit Breaker — **SET**  
-- [ ] 2. ALT 1 Switch — **CYCLE**  
-  
-> ◆ *If alternator does not reset:*  
-
-- [ ] a. ALT 1 Switch — **OFF**  
-- [ ] b. Non-Essential Loads — **REDUCE**  
-- [ ] (1) Air Conditioning — **OFF**  
-- [ ] (2) Cabin Fan — **OFF**  
-- [ ] (3) Landing Lights (LAND Switch) — **OFF**  
-- [ ] (4) CONV SYS 1 (D8) Circuit Breaker — **PULL**  
-- [ ] (5) CONV SYS 2 (D9) Circuit Breaker — **PULL**  
-- [ ] (6) EVS CAMERA (C5) Circuit Breaker (if installed) — **PULL**  
+### Abnormal CAS: MAIN BUS 1 VOLTS Caution  
+- [ ] 1. ALT 1 (D11) Circuit Breaker — SET  
+- [ ] 2. ALT 1 Switch — CYCLE  
+*If alternator does not reset:*  
+- [ ] a. ALT 1 Switch — OFF  
+- [ ] b. Non-Essential Loads — REDUCE  
+- [ ] (1) Air Conditioning — OFF  
+- [ ] (2) Cabin Fan — OFF  
+- [ ] (3) Landing Lights (LAND Switch) — OFF  
+- [ ] (4) CONV SYS 1 (D8) Circuit Breaker — PULL  
+- [ ] (5) CONV SYS 2 (D9) Circuit Breaker — PULL  
+- [ ] (6) EVS CAMERA (C5) Circuit Breaker (if installed) — PULL  
 - [ ] c. Continue flight, avoiding IMC or night flight as able (reduced power redundancy).  
-⸻  
-## Abnormal CAS: MAIN BUS 2 VOLTS Caution  
   
-- [ ] 1. ALT 2 (B5) Circuit Breaker — **SET**  
-- [ ] 2. ALT 2 Switch — **CYCLE**  
-  
-> ◆ *If alternator does not reset:*  
-
-- [ ] a. ALT 2 Switch — **OFF**  
+### Abnormal CAS: MAIN BUS 2 VOLTS Caution  
+- [ ] 1. ALT 2 (B5) Circuit Breaker — SET  
+- [ ] 2. ALT 2 Switch — CYCLE  
+*If alternator does not reset:*  
+- [ ] a. ALT 2 Switch — OFF  
 - [ ] b. Continue flight, avoiding IMC or night flight as able (reduced power redundancy).  
-⸻  
-## Abnormal CAS: OIL PRESSURE Caution  
   
-> ◆ *If in flight:*  
-
+### Abnormal CAS: OIL PRESSURE Caution  
+*If in flight:*  
 - [ ] a. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: OIL TEMP Caution  
   
-- [ ] 1. Power — **REDUCE AS MUCH AS PRACTICAL**  
-- [ ] 2. Airspeed — **INCREASE**  
-- [ ] 3. Mixture — **ADJUST TO TOP OF GREEN ARC**  
-- [ ] 4. Oil Temperature Gauge — **MONITOR**  
-⸻  
-## Abnormal CAS: PARK BRAKE Caution  
+### Abnormal CAS: OIL TEMP Caution  
+- [ ] 1. Power — REDUCE AS MUCH AS PRACTICAL  
+- [ ] 2. Airspeed — INCREASE  
+- [ ] 3. Mixture — ADJUST TO TOP OF GREEN ARC  
+- [ ] 4. Oil Temperature Gauge — MONITOR  
   
+### Abnormal CAS: PARK BRAKE Caution  
 - [ ] 1. Parking Brake — **RELEASE**  
     - [ ] a. Stop aircraft and allow the brakes to cool if necessary.  
-⸻  
-## Abnormal CAS: PROBE HEAT FAIL Caution  
   
-- [ ] 1. Probe Heat Circuit Breaker — **CYCLE**  
-- [ ] 2. Probe Heat — **CYCLE OFF, ON**  
-  
-> ◆ *If inadvertent icing encountered, perform Inadvertent Icing Encounter Checklist and:*  
-
-- [ ] a. Airspeed — **EXPECT NO RELIABLE INDICATION**  
+### Abnormal CAS: PROBE HEAT FAIL Caution  
+- [ ] 1. Probe Heat Circuit Breaker — CYCLE  
+- [ ] 2. Probe Heat — CYCLE OFF, ON  
+*If inadvertent icing encountered, perform Inadvertent Icing Encounter Checklist and:*  
+- [ ] a. Airspeed — EXPECT NO RELIABLE INDICATION  
 - [ ] b. Exit icing conditions using attitude, altitude, and power instruments.  
-⸻  
-## Abnormal CAS: PROBE HEAT OFF Caution  
   
-- [ ] 1. Probe Heat — **ON**  
-⸻  
-## Abnormal CAS: SFD ALT MISCOMPARE Caution  
+### Abnormal CAS: PROBE HEAT OFF Caution  
+- [ ] 1. Probe Heat — ON  
   
-- [ ] 1. DISPLAY BACKUP Button — **PRESS**  
-- [ ] 2. Altitude — **CROSS-CHECK SFD WITH PFD**  
-- [ ] 3. Altitude — **CROSS-CHECK PFD ADC 1 WITH ADC 2**  
+### Abnormal CAS: SFD ALT MISCOMPARE Caution  
+- [ ] 1. DISPLAY BACKUP Button — PRESS  
+- [ ] 2. Altitude — CROSS-CHECK SFD WITH PFD  
+- [ ] 3. Altitude — CROSS-CHECK PFD ADC 1 WITH ADC 2  
 - [ ] 4. Select correct sensor source, if required.  
 - [ ] 5. Pull erroneous circuit breakers, if required: ADAHRS 1 (B13), ADAHRS 2 (C13), STNDBY ATT A (B14), STNDBY ATT B (C14)  
 - [ ] 6. Exit IMC as soon as practical.  
 - [ ] 7. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: SFD IAS MISCOMPARE Caution  
   
-- [ ] 1. DISPLAY BACKUP Button — **PRESS**  
-- [ ] 2. Airspeed — **CROSS-CHECK SFD WITH PFD**  
-- [ ] 3. Airspeed — **CROSS-CHECK PFD ADC 1 WITH ADC 2**  
+### Abnormal CAS: SFD IAS MISCOMPARE Caution  
+- [ ] 1. DISPLAY BACKUP Button — PRESS  
+- [ ] 2. Airspeed — CROSS-CHECK SFD WITH PFD  
+- [ ] 3. Airspeed — CROSS-CHECK PFD ADC 1 WITH ADC 2  
 - [ ] 4. Select correct sensor source, if required.  
 - [ ] 5. Pull erroneous circuit breakers, if required: ADAHRS 1 (B13), ADAHRS 2 (C13), STNDBY ATT A (B14), STNDBY ATT B (C14)  
 - [ ] 6. Exit IMC as soon as practical.  
 - [ ] 7. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: SFD NO-COMPARE Advisory  
   
+### Abnormal CAS: SFD NO-COMPARE Advisory  
 - [ ] 1. Exit IMC.  
 - [ ] 2. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: SFD PITCH MISCOMPARE Caution  
   
-- [ ] 1. DISPLAY BACKUP Button — **PRESS**  
-- [ ] 2. Attitude — **CROSS-CHECK SFD WITH PFD**  
-- [ ] 3. Attitude — **CROSS-CHECK PFD AHRS 1 WITH AHRS 2**  
+### Abnormal CAS: SFD PITCH MISCOMPARE Caution  
+- [ ] 1. DISPLAY BACKUP Button — PRESS  
+- [ ] 2. Attitude — CROSS-CHECK SFD WITH PFD  
+- [ ] 3. Attitude — CROSS-CHECK PFD AHRS 1 WITH AHRS 2  
 - [ ] 4. Select correct sensor source, if required.  
 - [ ] 5. Pull erroneous circuit breakers, if required: ADAHRS 1 (B13), ADAHRS 2 (C13), STNDBY ATT A (B14), STNDBY ATT B (C14)  
 - [ ] 6. Exit IMC as soon as practical.  
 - [ ] 7. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: SFD ROLL MISCOMPARE Caution  
   
-- [ ] 1. DISPLAY BACKUP Button — **PRESS**  
-- [ ] 2. Attitude — **CROSS-CHECK SFD WITH PFD**  
-- [ ] 3. Attitude — **CROSS-CHECK PFD AHRS 1 WITH AHRS 2**  
+### Abnormal CAS: SFD ROLL MISCOMPARE Caution  
+- [ ] 1. DISPLAY BACKUP Button — PRESS  
+- [ ] 2. Attitude — CROSS-CHECK SFD WITH PFD  
+- [ ] 3. Attitude — CROSS-CHECK PFD AHRS 1 WITH AHRS 2  
 - [ ] 4. Select correct sensor source, if required.  
 - [ ] 5. Pull erroneous circuit breakers, if required: ADAHRS 1 (B13), ADAHRS 2 (C13), STNDBY ATT A (B14), STNDBY ATT B (C14)  
 - [ ] 6. Exit IMC as soon as practical.  
 - [ ] 7. Land as soon as practicable.  
-⸻  
-## Abnormal CAS: STARTER ENGAGED Caution  
   
-> ◆ *If on ground:*  
-
-- [ ] a. Starter Button — **RELEASE**  
-  
-> ❍ *If starter does not disengage:*  
-
+### Abnormal CAS: STARTER ENGAGED Caution  
+*If on ground:*  
+- [ ] a. Starter Button — RELEASE  
+*If starter does not disengage:*  
 - [ ] (1) Wait 20 seconds before next start attempt.  
-- [ ] (2) BAT 1 Switch — **OFF**  
-- [ ] (3) Mixture — **CUTOFF**  
-- [ ] (4) Fuel Pump — **OFF**  
-- [ ] (5) STARTER (D1) Circuit Breaker — **PULL**  
+- [ ] (2) BAT 1 Switch — OFF  
+- [ ] (3) Mixture — CUTOFF  
+- [ ] (4) Fuel Pump — OFF  
+- [ ] (5) STARTER (D1) Circuit Breaker — PULL  
+*If in flight:*  
+- [ ] a. STARTER (D1) Circuit Breaker — PULL  
+- [ ] b. Flight — CONTINUE  
   
-> ◆ *If in flight:*  
-
-- [ ] a. STARTER (D1) Circuit Breaker — **PULL**  
-- [ ] b. Flight — **CONTINUE**  
-⸻  
-## Abnormal CAS: TAKEOFF FLAPS Caution  
+### Abnormal CAS: TAKEOFF FLAPS Caution  
+- [ ] 1. Takeoff — ABORT  
+- [ ] 2. Flaps — 50%  
   
-- [ ] 1. Takeoff — **ABORT**  
-- [ ] 2. Flaps — **50%**  
-⸻  
-## Other System Messages: MFD FAN FAIL Advisory  
+### Other System Messages: MFD FAN FAIL Advisory  
+- [ ] 1. AVIONICS FAN 1 (D7) Circuit Breaker — SET  
+*If annunciation does not extinguish:*  
+- [ ] a. High cabin temps — LAND AS SOON AS PRACTICABLE  
+- [ ] b. Low cabin temps — CONTINUE, MONITOR  
   
-- [ ] 1. AVIONICS FAN 1 (D7) Circuit Breaker — **SET**  
-  
-> ◆ *If annunciation does not extinguish:*  
-
-- [ ] a. High cabin temps — **LAND AS SOON AS PRACTICABLE**  
-- [ ] b. Low cabin temps — **CONTINUE, MONITOR**  
-⸻  
-## Other System Messages: PFD FAN FAIL Advisory  
-  
-- [ ] 1. AVIONICS FAN 2 (C7) Circuit Breaker — **SET**  
-  
-> ◆ *If annunciation does not extinguish:*  
-
-- [ ] a. High cabin temps — **LAND AS SOON AS PRACTICABLE**  
-- [ ] b. Low cabin temps — **CONTINUE, MONITOR**  
+### Other System Messages: PFD FAN FAIL Advisory  
+- [ ] 1. AVIONICS FAN 2 (C7) Circuit Breaker — SET  
+*If annunciation does not extinguish:*  
+- [ ] a. High cabin temps — LAND AS SOON AS PRACTICABLE  
+- [ ] b. Low cabin temps — CONTINUE, MONITOR  
   
   
   
