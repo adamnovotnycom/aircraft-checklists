@@ -1,7 +1,8 @@
-# Diamond DA40 NG checklist  
-  
+# Diamond DA40 NG checklists  
 version: 6.01.15-E  
-issued: 2010-04-01  
+published: 2010-04-01  
+  
+  
   
 ## CHAPTER 3 — EMERGENCY PROCEDURES  
   
@@ -527,19 +528,13 @@ A landing on grass is recommended to reduce landing run due to greater rolling r
 - [ ] **4.** Airspeed — below 140 KIAS  
 - [ ] **5.** Land at the next suitable airfield.  
   
-> **WARNING:** Do not try to lock the rear door in flight. The safety latch may disengage and the door opens, usually resulting in separation of the door from the airplane.   
-> 
-> **NOTE:** If the rear door has been lost, the airplane can be safely flown to the next suitable airfield.  
-
-⸻  
-⸻  
   
   
 ## CHAPTER 4A — NORMAL OPERATING PROCEDURES  
   
 ### 4A.5.1 Pre-Flight Inspection  
   
-### I. Cabin Check  
+I. Cabin Check  
 - [ ] a) MET, NAV, Mass & CG — flight planning completed  
 - [ ] b) Airplane documents — complete and up-to-date  
 - [ ] c) ELECTRIC MASTER — OFF, pull out key  
@@ -560,9 +555,7 @@ A landing on grass is recommended to reduce landing run due to greater rolling r
 - [ ] r) Controls and trim — free and correct  
 - [ ] s) Emergency axe (if installed) — stowed and secured  
 - [ ] t) Baggage — stowed and secured  
-  
-### II. Walk-Around Check, Visual Inspection  
-  
+II. Walk-Around Check, Visual Inspection  
 1. Left Main Landing Gear:  
 - [ ] a) Landing gear strut or fairing (if installed) — visual inspection  
 - [ ] b) Wear, tread depth of tire — check  
@@ -570,7 +563,6 @@ A landing on grass is recommended to reduce landing run due to greater rolling r
 - [ ] d) Brakes — check for leaks  
 - [ ] e) Slip marks — visual inspection  
 - [ ] f) Chocks — remove  
-  
 2. Left Wing:  
 - [ ] a) Entire wing surface — visual inspection  
 - [ ] b) Step — visual inspection  
@@ -595,7 +587,6 @@ A landing on grass is recommended to reduce landing run due to greater rolling r
 - [ ] u) Flap hinges and safety pin — visual inspection  
 - [ ] v) Static discharger — visual inspection  
 - [ ] w) Fuel cooler inlet baffle (if installed) — verify OAT permits use; check for improper mounting or obvious damage  
-  
 3. Fuselage, Left Side:  
 - [ ] a) Canopy, left side — visual inspection  
 - [ ] b) Door lock (if installed) — unlocked, key removed  
@@ -603,7 +594,6 @@ A landing on grass is recommended to reduce landing run due to greater rolling r
 - [ ] d) Fuselage skin — visual inspection  
 - [ ] e) Antennas — visual inspection  
 - [ ] f) Static source — check for blockage  
-  
 4. Empennage:  
 - [ ] a) Stabilizers and control surfaces — visual inspection  
 - [ ] b) Hinges — visual inspection  
@@ -612,13 +602,11 @@ A landing on grass is recommended to reduce landing run due to greater rolling r
 - [ ] e) Tie-down — check, clear  
 - [ ] f) Tail skid and lower fin — visual inspection  
 - [ ] g) Static dischargers — visual inspection  
-  
 5. Fuselage, Right Side:  
 - [ ] a) Fuselage skin — visual inspection  
 - [ ] b) Static source — check for blockage  
 - [ ] c) Rear window — visual inspection  
 - [ ] d) Canopy, right side — visual inspection  
-  
 6. Right Wing:  
 - [ ] a) Flap and linkage — visual inspection  
 - [ ] b) Flap hinges and safety pin — visual inspection  
